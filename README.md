@@ -30,6 +30,6 @@ MobileNetV1.cpp<br/>
  <br/>
 Run TestTensorFlow_Lite.cpb with Code::Blocks. Remember, you also need a working OpenCV 4 on your Raspberry. <br/>
 
-![output image]( https://qengineering.eu/images/James_24.jpg )
+![output image]( https://qengineering.eu/images/James_17.jpg )
 
 See the movie at: https://vimeo.com/393889226
