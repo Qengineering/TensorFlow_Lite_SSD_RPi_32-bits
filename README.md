@@ -32,4 +32,4 @@ Run TestTensorFlow_Lite.cpb with Code::Blocks. Remember, you also need a working
 
 ![output image]( https://qengineering.eu/images/James_17.jpg )
 
-See the movie at: https://vimeo.com/393889226
+See the movie at: https://youtu.be/uspw6KztkeQ
