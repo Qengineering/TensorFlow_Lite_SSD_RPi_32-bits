@@ -2,7 +2,7 @@
 TensorFlow Lite running at 17 FPS on bare Raspberry Pi 4
 
 A fast C++ implementation of TensorFlow Lite on a bare Raspberry Pi 4.
-Once overclocked to 2000 MHz, the app runs a whopping 17 FPS!
+Once overclocked to 2000 MHz, the app runs an amazing 17 FPS!
 Without any hardware accelerator, just you and your Pi.
 
 https://arxiv.org/abs/1611.10012 <br/>
