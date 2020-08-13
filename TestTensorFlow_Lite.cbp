@@ -44,6 +44,7 @@
 			<Add option="-pthread" />
 			<Add library="/home/pi/tensorflow/tensorflow/lite/tools/make/gen/rpi_armv7l/lib/libtensorflow-lite.a" />
 			<Add library="/home/pi/tensorflow/tensorflow/lite/tools/make/downloads/flatbuffers/build/libflatbuffers.a" />
+			<Add library="/lib/arm-linux-gnueabihf/libdl.so.2" />
 		</Linker>
 		<Unit filename="MobileNetV1.cpp" />
 		<Extensions>
