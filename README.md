@@ -1,5 +1,6 @@
 # TensorFlow_Lite_SSD_RPi_32-bits
-TensorFlow Lite SSD running at 17 FPS on bare Raspberry Pi 4
+![output image]( https://qengineering.eu/images/James_17.jpg )<br/>
+## TensorFlow Lite SSD running at 17 FPS on bare Raspberry Pi 4
 
 A fast C++ implementation of TensorFlow Lite on a bare Raspberry Pi 4.
 Once overclocked to 2000 MHz, the app runs an amazing 17 FPS!
@@ -16,7 +17,7 @@ Special made for a bare Raspberry Pi see: https://qengineering.eu/install-tensor
 To extract and run the network in Code::Blocks <br/>
 $ mkdir *MyDir* <br/>
 $ cd *MyDir* <br/>
-$ wget https://github.com/Qengineering/TensorFlow_Lite_SSD_RPi_32-bits/archive/master.zip <br/>
+$ wget https://github.com/Qengineering/TensorFlow_Lite_SSD_RPi_32-bits/archive/refs/heads/master.zip <br/>
 $ unzip -j master.zip <br/>
 Remove master.zip and README.md as they are no longer needed. <br/> 
 $ rm master.zip <br/>
@@ -30,7 +31,5 @@ MobileNetV1.cpp<br/>
  <br/>
 Run TestTensorFlow_Lite.cpb with Code::Blocks. Remember, you also need a working OpenCV 4 on your Raspberry. <br/>
 Preferably use our installation: https://qengineering.eu/install-opencv-4.3-on-raspberry-pi-4.html <br/>
-
-![output image]( https://qengineering.eu/images/James_17.jpg )
 
 See the movie at: https://youtu.be/uspw6KztkeQ
